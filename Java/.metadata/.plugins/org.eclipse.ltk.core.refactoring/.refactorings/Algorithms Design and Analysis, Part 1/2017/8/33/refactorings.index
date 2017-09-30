@@ -1,0 +1,12 @@
+1502588821287	Rename field 'fTime'
+1502589082529	Rename field 'explored'
+1502592456148	Rename field 'rank'
+1502592841876	Rename package 'minCut'
+1502593596078	Rename package 'shortestpath'
+1502593829615	Rename field 'adjHeads'
+1502643240296	Rename method 'either'
+1502643244161	Rename method 'other'
+1502678114834	Rename package 'connectedcomponents'
+1502678784204	Rename package 'countcomparisons'
+1502679942904	Rename package 'mincut'
+1502980337481	Delete element

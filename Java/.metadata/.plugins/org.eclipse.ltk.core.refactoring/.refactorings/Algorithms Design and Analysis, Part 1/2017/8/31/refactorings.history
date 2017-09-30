@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;N&apos; in &apos;countInversions.MergeSortCount.sort(...)&apos; to &apos;n&apos;&#x0A;- Original project: &apos;Algorithms Design and Analysis, Part 1&apos;&#x0A;- Original element: &apos;countInversions.MergeSortCount.sort(List&lt;Integer&gt;).N&apos;&#x0A;- Renamed element: &apos;N&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;N&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;countInversions{MergeSortCount.java[MergeSortCount~sort~QList\&lt;QInteger;&gt;;@N!690!709!694!694!I!0!false" name="n" references="true" stamp="1501810753514" version="1.0"/>
+</session>

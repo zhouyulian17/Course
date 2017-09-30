@@ -1,0 +1,22 @@
+21
+Isoleucine I 0.131 ATT ATC ATA
+Leucine L 0.131 CTT CTC CTA CTG TTA TTG
+Valine V 0.117 GTT GTC GTA GTG
+Phenylalanine F 0.165 TTT TTC
+Methionine M 0.149 ATG
+Cysteine C 0.121 TGT TGC
+Alanine A 0.089 GCT GCC GCA GCG
+Glycine G 0.075 GGT GGC GGA GGG
+Proline P 0.115 CCT CCC CCA CCG
+Threonine T 0.119 ACT ACC ACA ACG
+Serine S 0.105 TCT TCC TCA TCG AGT AGC
+Tyrosine Y 0.181 TAT TAC
+Tryptophan W 0.204 TGG
+Glutamine Q 0.146 CAA CAG
+Asparagine N 0.132 AAT AAC
+Histidine H 0.155 CAT CAC
+Glutamic_acid E 0.147 GAA GAG
+Aspartic_acid D 0.133 GAT GAC
+Lysine K 0.146 AAA AAG
+Arginine R 0.174 CGT CGC CGA CGG AGA AGG
+stop * 0 TAA TAG TGA
